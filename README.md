@@ -36,4 +36,4 @@ Contributions are welcome! If you have suggestions for improvements, feel free t
 
 No license has been specified yet. Please contact the repository owner before reusing or distributing this project's contents.
 
-Thank You!
+Thank You for Visiting!
